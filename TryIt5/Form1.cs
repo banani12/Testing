@@ -60,7 +60,7 @@ namespace TryIt5
             blueToolStripMenuItem.Checked = false;
             greenToolStripMenuItem.Checked = true;
             contentsTextBox.ForeColor = Color.Green;
-            contentsTextBox.BackColor = Color.Cyan;
+            contentsTextBox.BackColor = Color.Black;    
             
         }
 
